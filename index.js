@@ -34,6 +34,7 @@ class App extends Component {
         <div class="header">
           <div class="figsvg">
           </div>
+          <img src=""></img>
           <svg
             id="Layer_1"
             data-name="Layer 1"
